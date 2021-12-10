@@ -1,5 +1,7 @@
 # vue-realtime-chat
-
+```
+This project uses Vue3 and Firebase to create a chat application that updates in realtime 
+```
 ## Project setup
 ```
 npm install
